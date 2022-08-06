@@ -1,2 +1,2 @@
-# easy_custom_KoElectra
+# easy_customdata_KoElectra
 HuggingFace code for fine tuning KoElectra 
